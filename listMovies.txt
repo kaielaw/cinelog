@@ -1,0 +1,81 @@
+16
+Dead Poets Society
+Drama
+1989
+Robin Williams
+Robert Sean Leonard
+The Notebook
+Romance
+2004
+Ryan Gosling
+Rachel McAdams
+How to Lose a Guy in 10 Days
+Romance
+2003
+Kate Hudson
+Matthew McConaughey
+Mission: Impossible - The Final Reckoning
+Action
+2025
+Tom Cruise
+Hayley Atwell
+In The Mood For Love
+Romance
+2000
+Maggie Cheung
+Tony Leung Chiu-wai
+WALL-E
+Animation
+2008
+Ben Burtt
+Elissa Knight
+Parasite
+Thriller
+2019
+Song Kang-ho
+Lee Sun-kyun
+Oppenheimer
+Drama
+2023
+Cillian Murphy
+Emily Blunt
+The Batman
+Crime
+2022
+Robert Pattinson
+Zoe Kravitz
+The Wind Rises
+History
+2013
+Hideaki Anno
+Hidetoshi Nishijima
+Oldboy
+Thriller
+2003
+Choi Min-sik
+Yoo Ji-tae
+Jagal (The Act of Killing)
+Documentary
+2012
+Anwar Congo
+Herman Koto
+Senna
+Documentary
+2010
+Ayrton Senna
+Alain Prost
+Your Name.
+Romance
+2016
+Ryunosuke Kamiki
+Mone Kamishiraishi
+Marlina the Murderer in Four Acts
+Thriller
+2017
+Marsha Timothy
+Egy Fedly
+Barbie
+Romance
+2023
+Margot Robbie
+Bagas Diatama
